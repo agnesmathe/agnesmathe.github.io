@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Ágnes Máthé 
+site_url: https://agnesmathe.com/
+theme: 
+  name: material 
