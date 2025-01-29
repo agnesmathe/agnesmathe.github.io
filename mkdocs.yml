@@ -1,12 +1,4 @@
 site_name: Agnes Mathe
-site_url: https://agnesmathe.com/
 theme: 
   name: material 
-  palette: 
-    scheme: slate 
-theme:
-  palette:
-    primary: pink
-theme:
-  palette:
-    accent: pink 
+
