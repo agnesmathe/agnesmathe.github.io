@@ -4,6 +4,9 @@ theme:
   name: material 
   palette: 
     scheme: slate 
+theme:
+  palette:
     primary: pink
+theme:
+  palette:
     accent: pink 
-
